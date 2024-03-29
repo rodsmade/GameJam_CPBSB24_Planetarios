@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/tela3_venus.unity
     guid: 3abbf1005cf01404ea8f60a92404c622
+  - enabled: 1
+    path: Assets/Scenes/tela4_mercurio_nave.unity
+    guid: 4b4cf451f05cc4544afd9b01a928d597
+  - enabled: 1
+    path: Assets/Scenes/tela5_terra.unity
+    guid: 603c17772ad29074dbc47197b0a06b66
+  - enabled: 1
+    path: Assets/Scenes/tela6_terra_nave.unity
+    guid: 08579c6c6c304664c82007d68aa7b31c
   m_configObjects: {}
